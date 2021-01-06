@@ -4,6 +4,8 @@
 
 ### npm|cnpm|yarn install
 
+`yarn|npm|cnpm start`
+
 ### 第一步 使用脚手架
 
 `npx create-react-app xxx项目名`
