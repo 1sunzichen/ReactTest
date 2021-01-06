@@ -39,4 +39,6 @@ import New from './component/new'
 </Router>```
 ````
 
-### 第五步 终端 yarn start ok
+### 第五步 终端
+
+`yarn start`
